@@ -134,4 +134,4 @@ pytest test_news.py
 
 ## License 📄
 
-This project is licensed under the MohsLaw License - email me at [email](mohammedabdy10@gmail.com) for details.
+This project is licensed under the MohsLaw License - Just Kidding😁, email me at mohammedabdy10@gmail.com for details on the code.
