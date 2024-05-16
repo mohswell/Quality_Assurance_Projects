@@ -1,4 +1,4 @@
-### Two Quality Assurance projects: a React.js City Weather App and a Vue.js Current News Articles App
+### Two Quality Assurance projects: Testing a React.js City Weather App and a Vue.js Current News Articles App I developed using a public weather API and a news API.
 
 # 1. Weather App ☀️
 
