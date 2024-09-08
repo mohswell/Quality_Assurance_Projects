@@ -23,7 +23,7 @@ This project is a React.js application that fetches weather data using the OpenW
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Moddic10/Quality_Assurance_Projects.git
+   git clone https://github.com/mohswell/Quality_Assurance_Projects.git
    cd weather-app
    ```
 
@@ -92,7 +92,7 @@ This project is a Vue.js application that fetches top news articles using the Ne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-app.git
+   git clone https://github.com/mohswell/Quality_Assurance_Projects.git
    cd news-app
    ```
 
